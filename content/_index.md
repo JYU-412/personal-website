@@ -92,7 +92,7 @@ sections:
   content:
     count: 4
     filters:
-     exclude_featured: true
+     exclude_featured: false
      folders:
      - publication
     title: Publications
