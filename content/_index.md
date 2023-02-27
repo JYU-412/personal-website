@@ -4,7 +4,7 @@ sections:
 
 - block: about.avatar
   content:
-    text: null
+    text: 
     username: admin
   id: about
 - block: features
