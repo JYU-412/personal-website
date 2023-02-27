@@ -9,6 +9,6 @@ abstract: "BACKGROUND AND OBJECTIVES: With the extension of healthy life expecta
 featured: true
 publication: "*The Gerontologist*"
 doi: "10.1093/geront/gnab058"
-tags: ["Active aging", "Aging", "China",  "LASSO regression", "Longitudinal Studies", "Machine Learning", "Middle Aged", "Random Forest", "Machine Learning"]
+tags: ["Active aging", "Older Adults", "China",  "LASSO regression", "Longitudinal Studies", "Machine Learning", "Middle Aged", "Random Forest", "Machine Learning"]
 ---
 

@@ -9,6 +9,6 @@ featured: false
 publication: "*Journal of Women & Aging*"
 tags: ["Adaptation; Psychological", "Aged", "Aging", "Bereavement", "Depression", "Depressive", "differences", "Emotional Adjustment", "Female", "gender", "Humans", "Male", "Marriage", "Prospective Studies", "symptoms", "widowhood", "Widowhood"]
 doi: "10.1080/08952841.2019.1685855"
-tags: ["Mental Health", "Older Adults", "Depression", "Gender Difference",  "Trajectory"]
+tags: ["Mental Health", "Depression", "Gender Difference",  "Trajectory"]
 ---
 

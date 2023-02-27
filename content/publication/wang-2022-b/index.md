@@ -9,6 +9,6 @@ featured: false
 publication: "*The International Journal of Aging and Human Development*"
 url_pdf: "https://doi.org/10.1177/00914150211037657"
 doi: "10.1177/00914150211037657"
-tags: ["Neighborhood",  "Depression", "Older adults",  "Mediation analysis", "Mobility Limitations", "HRS"]
+tags: ["Neighborhood",  "Depression",   "Mediation analysis", "Mobility Limitations", "HRS"]
 ---
 

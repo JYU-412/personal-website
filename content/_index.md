@@ -92,20 +92,24 @@ sections:
   content:
     count: 3
     filters:
-     exclude_featured: false
+     tag: ''
+     category: ''
+     publication_type: ''
+     author: ''
+     featured_only: true
      folders:
      - publication
-    title: Publications
+    title: Recent Publications
   design:
    columns: "2"
-   view: citation
+   view: compact
   id: publication
   
 - block: tag_cloud
   content:
     title: Key Words
   design:
-    columns: ""
+    columns: "2"
 
 - block: contact
   content:
@@ -129,6 +133,6 @@ sections:
   design:
     columns: "2"
   id: contact
-title: Jiao Yu
+title: 
 type: landing
 ---
