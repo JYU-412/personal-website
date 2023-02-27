@@ -90,7 +90,7 @@ sections:
  # id: featured
 - block: collection
   content:
-    count: 4
+    count: 3
     filters:
      exclude_featured: false
      folders:
