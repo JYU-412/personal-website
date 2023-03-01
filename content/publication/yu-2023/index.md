@@ -3,7 +3,7 @@ title: "Oral Health and Mortality Among Older Adults: A Doubly Robust Survival A
 date: 2023-01-01
 publishDate: 2023-02-27T00:39:15.618571Z
 authors: ["admin", "Weidi Qin", "Wenxuan Huang", "Kristi Thomas"]
-publication_types: ["2"]
+publication_types: ["2"] 
 featured: true
 abstract: "Introduction:
 Evidence on the association between oral health and mortality is inconclusive, and few studies have accounted for the nonrandom selection bias in estimating their relationship. This study aims to investigate the link between oral health and mortality in community-dwelling older adults by adjusting for confounding factors with a doubly robust survival estimation.
