@@ -5,7 +5,7 @@ sections:
 - block: about 
   content: 
     text: 
-    username: jiao 
+    username: Jiao
 - block: features
   content:
     items:
