@@ -2,11 +2,10 @@
 date: "2022-10-24"
 sections:
 
-- block: about.avatar
-  content:
+- block: about 
+  content: 
     text: 
-    username: admin
-  id: about
+    username: jiao 
 - block: features
   content:
     items:

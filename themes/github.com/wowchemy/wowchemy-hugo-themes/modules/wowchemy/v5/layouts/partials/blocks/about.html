@@ -1,4 +1,4 @@
-{{/* Wowchemy Blocks: About */}}
+{{/* Wowchemy Blocks: About - avatar variation */}}
 {{/* Documentation: https://wowchemy.com/blocks/ */}}
 {{/* License: https://github.com/wowchemy/wowchemy-hugo-themes/blob/main/LICENSE.md */}}
 
@@ -10,7 +10,7 @@
 {{ if .author }}
   {{ $author = .author }}
 {{ else }}
-  {{ $author = $block.Params.author }}
+  {{ $author = $block.content.username }}
 {{end}}
 
 {{ $person_page_path := (printf "/authors/%s" $author) }}
@@ -21,6 +21,7 @@
 {{ $person := $person_page.Params }}
 {{ $avatar := ($person_page.Resources.ByType "image").GetMatch "*avatar*" }}
 {{ $avatar_shape := site.Params.features.avatar.shape | default "circle" }}
+
 
 <!-- About widget -->
 <div class="row">
