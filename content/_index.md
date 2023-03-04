@@ -56,8 +56,10 @@ sections:
     columns: "2"
     view: compact
   id: posts
-#- block: portfolio
- # content:
+
+#- block: collection
+ #  content:
+ #   count: 2
  #   buttons:
   #  - name: All
   #    tag: '*'
@@ -66,15 +68,15 @@ sections:
   #    - name: Other
   #      tag: Demo
    #   default_button_index: 0
-   #   filters:
-  #      folders:
-  #      - project
-  #    title: Projects
-  #  design:
-  #    columns: "1"
+  #  filters:
+  #   folders:
+  #   - project
+  #  title: Teaching
+  #design:
+  # columns: "2"
   #    flip_alt_rows: false
-  #    view: showcase
-  #  id: projects
+  # view: showcase
+  #id: projects
 
 #- block: collection
 #  content:
