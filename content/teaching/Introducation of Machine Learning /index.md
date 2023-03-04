@@ -9,7 +9,7 @@ links:
   # icon_pack: fab
   # link: https://github.com/JYU-412/Machine-Learning
 #slides: example
-summary: Notes on machine learning basics
+summary: A introduction course for machine learning basics
 
 title: Introduction of Machine Learning 
 url_code: ""
