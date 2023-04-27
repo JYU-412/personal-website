@@ -124,10 +124,10 @@ sections:
     # appointment_url: https://calendly.com
     autolink: true
     contact_links:
-- icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/Jiao_Jo_Yu
-    name: DM Me
+    - icon: twitter
+      icon_pack: fab
+      link: https://twitter.com/Jiao_Jo_Yu
+      #name: DM Me
     
     email: yu015354@umn.edu
     title: Contact
