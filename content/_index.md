@@ -127,7 +127,7 @@ sections:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/Jiao_Jo_Yu
-    #name: DM Me
+    name: DM Me
     
     email: yu015354@umn.edu
     title: Contact
