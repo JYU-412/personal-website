@@ -34,10 +34,10 @@ social:
   link: /#contact
 - display:
     header: true
-# icon: twitter
-# icon_pack: fab
+- icon: twitter
+  icon_pack: fab
 # label: Follow me on Twitter
-# link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/Jiao_Jo_Yu
 - icon: google-scholar 
   icon_pack: ai
   link: https://scholar.google.com/citations?user=ay-oPx4AAAAJ&hl=en
