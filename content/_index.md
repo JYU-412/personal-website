@@ -115,12 +115,12 @@ sections:
 - block: contact
   content:
     address:
-      city: Minneapolis 
+      city: New Haven 
       country: United States
       country_code: US
-      postcode: "55414"
-      region: MN
-      street: 50 Willey Hall, 225 19th Avenue South
+      postcode: "06520"
+      region: CT
+      street: 60 College Street 
     # appointment_url: https://calendly.com
     autolink: true
     contact_links:
@@ -129,7 +129,7 @@ sections:
   #  link: https://twitter.com/Jiao_Jo_Yu
   #  name: DM Me
     
-    email: yu015354@umn.edu
+    email: jiao.yu@yale.edu
     title: Contact
   design:
     columns: "2"
