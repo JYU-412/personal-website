@@ -14,7 +14,7 @@ education:
   - course: BA in Sociology and Finance
     institution: Central University of Finance and Economics 
     year: 2011
-email: "yu015354@umn.edu"
+email: "jiao.yu@yale.edu"
 first_name: Jiao
 highlight_name: true
 interests:
@@ -26,7 +26,7 @@ interests:
 last_name: Yu
 organizations:
 - name: Yale University
-  url: "https://pop.umn.edu/people/jiao-yu"
+  url: ""
 role: Postdoctoral Associate
 social:
 - icon: envelope
@@ -34,13 +34,13 @@ social:
   link: /#contact
 - display:
     header: true
-# icon: twitter
-# icon_pack: fab
+- icon: twitter
+  icon_pack: fab
 # label: Follow me on Twitter
-# link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/Jiao_Jo_Yu
 - icon: google-scholar 
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=ay-oPx4AAAAJ&hl=en
+  link: https://scholar.google.com/citations?view_op=list_works&hl=en&user=ufkUpVYAAAAJ
 - icon: researchgate 
   icon_pack: ai
   link: https://www.researchgate.net/profile/Jiao-Yu-6
