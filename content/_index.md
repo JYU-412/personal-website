@@ -137,3 +137,6 @@ sections:
 title: 
 type: landing
 ---
+
+#Link to a PDF of your resume/CV from the menu.
+# data_vi/Personal-website/Untitled/themes/starter-hugo-academic/static
